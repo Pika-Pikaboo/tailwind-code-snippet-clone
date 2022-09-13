@@ -20,7 +20,7 @@ body {
 	font-size: 1rem;
 	padding-top: .5rem;
 	border-radius: 20px;
-	overflow: hidden;
+	overflow: auto;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
